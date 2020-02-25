@@ -1,12 +1,12 @@
 # Seminar 1 - User Story & Task Cards
 
-## User Stories:
+## User Stories
 
 - They are given by the customer
 
 - They are a requirement(from the specification)
 
-## Task cards:
+## Task cards
 
 - A user story can be split into multiple task cards.
 
@@ -49,7 +49,7 @@
 - Product based - when a company makes software for themselves because their company surrounds a product. 
     - e.g. Adobe make software for themselves.
 
-## Assumptions.
+## Assumptions
 - When looking at a user story, you should assume you don't know information outside of that story.
     - You do this because the customer might make changes in their requirements.
 
